@@ -2,15 +2,15 @@
 
 ## now
 
-![](https://github.com/ltfred/alfred-datetime-workflow/images/image1.png)
+![](https://github.com/ltfred/alfred-datetime-workflow/blob/master/images/image1.png)
 
 ## timestamp to date
 
-![](https://github.com/ltfred/alfred-datetime-workflow/images/image2.png)
+![](https://github.com/ltfred/alfred-datetime-workflow/blob/master/images/image2.png)
 
 ## date to timestamp
 
-![](https://github.com/ltfred/alfred-datetime-workflow/images/image3.png)
+![](https://github.com/ltfred/alfred-datetime-workflow/blob/master/images/image3.png)
 
 ## install
 
